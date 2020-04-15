@@ -37,3 +37,6 @@ Obstacolele vor fi reprezentate în scenă prin obiecte de culoare roșie (de ex
 
 **Combustibil** 
 Alimentarea avionului se poate face din zbor prin colectarea obiectelor de combustibil. Acestea vor fi reprezentate de obiecte cu o culoare turcoaz, vor dispuse într-o înșiruire arcuită și vor avea o animație de rotire permanentă. Pot fi reprezentate spre exemplu prin obiecte de tip Teapot. În momentul coliziunii cu avionul acestea dispar, iar combustibilul avionului va crește.
+
+
+[DEMO](https://www.youtube.com/watch?v=s6gM2GBF3Ek&feature=emb_title)
